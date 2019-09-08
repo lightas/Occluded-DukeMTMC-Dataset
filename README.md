@@ -4,7 +4,7 @@ This is the **Occluded-DukeMTMC** dataset from the ICCV2019 paper *"Pose-Guided 
 
 ## Dataset Discription
 
-The **Occluded-DukeMTMC** dataset is designed for the *occluded person re-id problem*. We re-splited the DukeMTMC-reID dataset to generate the new Occluded-DukeMTMC dataset. Different from the original one, **all query images** and 10% gallery images in the new dataset are occluded person images. Therefore, there always exists at least one occluded image in calculating pairwise distance between query and gallery images. More details of the dataset can be found in our paper [[link]()].
+The **Occluded-DukeMTMC** dataset is designed for the *occluded person re-id problem*. We re-splited the DukeMTMC-reID dataset to generate the new Occluded-DukeMTMC dataset. Different from the original one, **all query images** and 10% gallery images in the new dataset are occluded person images. Therefore, there always exists at least one occluded image in calculating pairwise distance between query and gallery images. More details of the dataset can be found in our paper(./ICCV19_PGFA.pdf).
 
 ## Dataset Preparation
 
