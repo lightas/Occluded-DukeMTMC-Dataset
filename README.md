@@ -28,10 +28,11 @@ Please cite the following two papers if this dataset helps your research.
   booktitle={ICCV},
   year={2019}
 }
-@inproceedings{ristani2016MTMC,
-  title = {Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking},
-  author = {Ristani, Ergys and Solera, Francesco and Zou, Roger and Cucchiara, Rita and Tomasi, Carlo},
-  booktitle = {European Conference on Computer Vision workshop on Benchmarking Multi-Target Tracking},
-  year = {2016}
+@article{miao2021identifying,
+  title={Identifying Visible Parts via Pose Estimation for Occluded Person Re-Identification},
+  author={Miao, Jiaxu and Wu, Yu and Yang, Yi},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2021},
+  publisher={IEEE}
 }
 ```
